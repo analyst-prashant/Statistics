@@ -1,4 +1,4 @@
-# Statistics
+# Statistics : Why we use n-1 as Degree of Freedom in standard deviation?
 Question:  
 **If we don't know the population mean (as would commonly be the case) we need to divide by n-1 in our variance calculations to get the best estimate of the true population variance and thus the standard deviation. Why we use n-1 as Degree of Freedom in standard deviation?**
 
